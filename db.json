@@ -13,9 +13,10 @@
             "postId": 1
         }
       ],
-    "profile": [ {
-      "id": 1,
-      "profileId": 1,
-      "name": "typicode"
-    }]
+    "profile": [ 
+        {
+            "profileId": 1,
+            "name": "typicode"
+      }
+    ]
   }
